@@ -22,6 +22,7 @@ Your task is to write a command line calculator application that has two setting
 
 ## Hints
 Get user input      - ```hello = gets.chomp```
+
 Output to console   - ```puts "Hello Sparta" `` 
 
 ## Challenges
